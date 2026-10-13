@@ -5,6 +5,12 @@
 <sup>1</sup>Xiamen University · <sup>2</sup>Shanghai Innovation Institute · <sup>3</sup>National University of Singapore  
 <sup>†</sup>Equal contribution
 
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/Demo-HuggingFace-orange.svg)](https://huggingface.co/spaces/sosppxo/RSReasonNet)
+
+</div>
+
 ---
 
 ## 📖 Abstract
@@ -64,7 +70,7 @@ Use the same backbone, LoRA settings, and GPU count as the checkpoint. Evaluatio
 
 ## 🖥️ Demo
 
-The interactive demo is coming soon.
+Try the interactive [RSReasonNet demo](https://huggingface.co/spaces/sosppxo/RSReasonNet) on Hugging Face Spaces.
 
 ## 📝 Citation
 
